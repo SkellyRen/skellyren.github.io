@@ -3,6 +3,7 @@ layout: page
 title: Rock Recipes
 permalink: /recipes/
 icon: fab fa-rockrms
+order: 3
 ---
 
 # <i class="fab fa-rockrms"></i> Rock RMS Recipes

@@ -1,6 +1,7 @@
 ---
 title: Projects
 icon: fas fa-folder-open
+permalink: /projects/
 order: 2
 ---
 

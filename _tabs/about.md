@@ -1,6 +1,7 @@
 ---
 title: About
 icon: fas fa-user
+permalink: /about/
 order: 1
 ---
 
