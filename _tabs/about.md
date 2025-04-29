@@ -27,11 +27,11 @@ Outside of coding, I'm passionate about making technology more accessible and fi
 # Get in Touch
 
 <p>
-  <a href="https://github.com/skellyren" target="_blank" style="display: inline-block; background-color: #333; color: white; padding: 0.4em 0.8em; margin-right: 0.5em; border-radius: 4px; text-decoration: none;">
-    GitHub
+  <a href="https://github.com/skellyren" target="_blank" style="display: inline-block; background-color: #333; color: white; padding: 0.5em 1em; margin-right: 0.5em; border-radius: 4px; text-decoration: none;">
+    <i class="fab fa-github"></i> GitHub
   </a>
-  <a href="https://www.linkedin.com/in/steven-k-54326a119/" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 0.4em 0.8em; border-radius: 4px; text-decoration: none;">
-    LinkedIn
+  <a href="https://www.linkedin.com/in/steven-k-54326a119/" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 0.5em 1em; border-radius: 4px; text-decoration: none;">
+    <i class="fab fa-linkedin"></i> LinkedIn
   </a>
 </p>
 
