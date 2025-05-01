@@ -36,3 +36,5 @@ Outside of coding, I'm passionate about making technology more accessible and fi
 </p>
 
 Feel free to reach out — I'm always open to discussing projects, collaboration ideas, or cool tech challenges!
+
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d9379ee741c54ed78d6f0ef8275dcd81"}'></script><!-- End Cloudflare Web Analytics -->

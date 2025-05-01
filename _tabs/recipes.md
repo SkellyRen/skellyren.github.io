@@ -32,3 +32,5 @@ A collection of practical solutions and enhancements I've contributed to the Roc
     <p><a href="https://community.rockrms.com/recipes/348/registration-instance-totals-report" target="_blank" style="display: inline-block; background-color: #007bff; color: white; padding: 0.5em 1em; border-radius: 4px; text-decoration: none;"><strong>View Recipe →</strong></a></p>
   </div>
 </div>
+
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d9379ee741c54ed78d6f0ef8275dcd81"}'></script><!-- End Cloudflare Web Analytics -->
